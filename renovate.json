@@ -47,21 +47,9 @@
       "groupName": "ESLint tooling"
     },
     {
-      "description": "Group Supabase client updates across apps",
-      "matchManagers": ["npm"],
-      "matchPackageNames": ["@supabase/supabase-js"],
-      "groupName": "Supabase client"
-    },
-    {
       "description": "Group Express server dependency updates",
       "matchManagers": ["npm"],
-      "matchPackageNames": [
-        "express",
-        "@types/express",
-        "cors",
-        "jsonwebtoken",
-        "dotenv"
-      ],
+      "matchPackageNames": ["express", "@types/express", "cors", "dotenv"],
       "groupName": "Express server dependencies"
     },
     {
