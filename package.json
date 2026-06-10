@@ -1,5 +1,5 @@
 {
-  "name": "react-express-supabase-starter",
+  "name": "react-express-ts-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,25 +11,24 @@
     "=== SETUP ===": "",
     "install:all": "npm install && npm --prefix client install && npm --prefix server install",
     "=== CODE QUALITY ===": "",
-    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,css,scss,less,html,json,md,mdx,yaml,yml}\"",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,css,scss,less,html,json,md,mdx,yaml,yml,mdx,yml}\"",
     "format:check": "prettier --check \"**/*.{js,jsx,ts,tsx,css,scss,less,html,json,md,mdx,yaml,yml}\""
   },
   "dependencies": {},
   "devDependencies": {
     "concurrently": "^9.0.0",
-    "prettier": "^3.7.4",
-    "supabase": "^2.48.3"
+    "prettier": "^3.7.4"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dlsud-submissions/react-express-supabase-starter.git"
+    "url": "git+https://github.com/cH0NKIIs34L/react-express-ts-template.git"
   },
   "keywords": [],
-  "author": "dlsud-submissions",
+  "author": "cH0NKIIs34L",
   "license": "MIT",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/dlsud-submissions/react-express-supabase-starter/issues"
+    "url": "https://github.com/cH0NKIIs34L/react-express-ts-template/issues"
   },
-  "homepage": "https://github.com/dlsud-submissions/react-express-supabase-starter#readme"
+  "homepage": "https://github.com/cH0NKIIs34L/react-express-ts-template#readme"
 }
